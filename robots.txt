@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /multumim/
-Disallow: /en/thank-you/
-
-Sitemap: https://aiem-lyart.vercel.app/sitemap.xml

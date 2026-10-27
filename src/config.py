@@ -11,9 +11,9 @@ CFG = {
     # ---- GOOGLE APPS SCRIPT (marrja e kërkesave nga formulari) ----
     # Pas deploy-it të skriptit (shih apps-script/README.md) ngjit këtu URL-në që mbaron me /exec.
     # Nëse mbetet bosh, faqja përdor emailin e gatshëm (mailto) në vend të formularit.
-    "apps_script_url": "",
-    "sheet_id": "",          # opsionale: ID e një Google Sheet ku ruhen të gjitha kërkesat (kopje rezervë)
-    "team_lang": "sq",       # gjuha e emailit që merr ekipi: "sq" ose "en"
+    "apps_script_url": "https://script.google.com/macros/s/AKfycbya4MicZ32nYGzegwO42wCetvXZ5Ntr3FJTraJ9d6b4Bs1nLscz3cjJ6KFLfmxCe5XJSg/exec",
+    "sheet_id": "1eJn8mOCV_4y2_yp0a7JdWDwvS9NJZGGCzDrEYylPWf0",          # opsionale: ID e një Google Sheet ku ruhen të gjitha kërkesat (kopje rezervë)
+    "team_lang": "en",       # gjuha e emailit që merr ekipi: "sq" ose "en"
     "send_autoreply": True,  # konfirmim automatik te vizitori (në gjuhën e tij)
 
     # ---- ADRESAT E EMAILIT ----
